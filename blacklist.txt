@@ -2,3 +2,4 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 pc-adroute.focas.jp
